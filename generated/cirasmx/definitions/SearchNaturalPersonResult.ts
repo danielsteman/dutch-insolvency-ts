@@ -1,0 +1,4 @@
+
+/** searchNaturalPersonResult */
+export interface SearchNaturalPersonResult {
+}

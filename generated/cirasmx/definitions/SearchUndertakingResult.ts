@@ -1,0 +1,4 @@
+
+/** searchUndertakingResult */
+export interface SearchUndertakingResult {
+}

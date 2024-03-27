@@ -1,0 +1,4 @@
+
+/** searchByDateResult */
+export interface SearchByDateResult {
+}

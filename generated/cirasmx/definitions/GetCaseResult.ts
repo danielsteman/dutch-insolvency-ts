@@ -1,0 +1,4 @@
+
+/** getCaseResult */
+export interface GetCaseResult {
+}

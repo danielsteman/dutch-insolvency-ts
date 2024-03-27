@@ -1,0 +1,4 @@
+
+/** searchInsolvencyIDResult */
+export interface SearchInsolvencyIdResult {
+}

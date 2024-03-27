@@ -1,0 +1,4 @@
+
+/** searchReportsSinceResult */
+export interface SearchReportsSinceResult {
+}

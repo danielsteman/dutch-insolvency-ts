@@ -1,0 +1,4 @@
+
+/** getCaseWithReportsResult */
+export interface GetCaseWithReportsResult {
+}

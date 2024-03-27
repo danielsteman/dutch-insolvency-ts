@@ -1,0 +1,4 @@
+
+/** searchRemovedSinceResult */
+export interface SearchRemovedSinceResult {
+}

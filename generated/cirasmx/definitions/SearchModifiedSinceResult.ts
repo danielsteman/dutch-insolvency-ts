@@ -1,0 +1,4 @@
+
+/** searchModifiedSinceResult */
+export interface SearchModifiedSinceResult {
+}

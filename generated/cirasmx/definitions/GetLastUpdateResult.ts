@@ -1,0 +1,4 @@
+
+/** GetLastUpdateResult */
+export interface GetLastUpdateResult {
+}
